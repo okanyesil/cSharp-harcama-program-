@@ -1,0 +1,15 @@
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\bin\Debug\HarcamaListesi.exe.config
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\bin\Debug\HarcamaListesi.exe
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\bin\Debug\HarcamaListesi.pdb
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_giris.resources
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.Properties.Resources.resources
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.csproj.GenerateResource.Cache
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.exe
+c:\users\okan\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.pdb
+C:\Users\OKAN\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_ana.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_harcamaGir.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_kullaniciOlustur.resources
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.csprojAssemblyReference.cache
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.csproj.CoreCompileInputs.cache
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_istatistik.resources
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\HarcamaListesi\HarcamaListesi\obj\Debug\HarcamaListesi.frm_grafik.resources
